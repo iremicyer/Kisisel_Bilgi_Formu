@@ -191,25 +191,7 @@ namespace Kişisel_Bilgi_Form
 
             
 
-            //for (int i = 0; i < listBox1.Items.Count; i++)
-            //{
-            //    if (listBox1.Items[i].ToString().ToLower().Contains(listBox1.Text.ToLower()))
-            //    {
-            //        listBox1.SetSelected(i, true);
-            //    }
-            //}
-
-            //int liste;
-            //liste = listBox1.Items.Count;
-            //int[] dizi = new int[liste];
-            //for (int i = 0; i < liste; i++)
-            //{
-            //    dizi[i] = Convert.ToInt32(listBox1.Items[i]);
-            //}
-            //for (int i = 0; i < liste; i++)
-            //{
-            //    MessageBox.Show();
-            //}
+           
         }
     }
 }
