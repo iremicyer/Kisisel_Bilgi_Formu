@@ -195,4 +195,4 @@ namespace Kişisel_Bilgi_Form
         }
     }
 }
-// listboxı gez her bir stringi içine at 
+
