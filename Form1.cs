@@ -16,7 +16,7 @@ namespace Kişisel_Bilgi_Form
 
         public Form1()
         {
-            InitializeComponent(); //dateTimerPicher incele.
+            InitializeComponent(); 
 
         }
 
@@ -174,13 +174,9 @@ namespace Kişisel_Bilgi_Form
         {
 
 
-           // string[] veri = new string[14];
+           
             string veriler = "";
-            //for (int i = 0; i < veri.Length; i++)
-            //{
-            //    veriler += veri[i];
-            //}
-
+           
             string[] hepsi = File.ReadAllLines("C:\\dosyayaKaydet.txt");
 
             foreach (string n in hepsi)
